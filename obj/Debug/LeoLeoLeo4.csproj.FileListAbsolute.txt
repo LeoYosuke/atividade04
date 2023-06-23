@@ -1,0 +1,7 @@
+C:\Users\leoyo\source\repos\LeoLeoLeo4\LeoLeoLeo4\bin\Debug\LeoLeoLeo4.exe.config
+C:\Users\leoyo\source\repos\LeoLeoLeo4\LeoLeoLeo4\bin\Debug\LeoLeoLeo4.exe
+C:\Users\leoyo\source\repos\LeoLeoLeo4\LeoLeoLeo4\bin\Debug\LeoLeoLeo4.pdb
+C:\Users\leoyo\source\repos\LeoLeoLeo4\LeoLeoLeo4\obj\Debug\LeoLeoLeo4.csproj.AssemblyReference.cache
+C:\Users\leoyo\source\repos\LeoLeoLeo4\LeoLeoLeo4\obj\Debug\LeoLeoLeo4.csproj.CoreCompileInputs.cache
+C:\Users\leoyo\source\repos\LeoLeoLeo4\LeoLeoLeo4\obj\Debug\LeoLeoLeo4.exe
+C:\Users\leoyo\source\repos\LeoLeoLeo4\LeoLeoLeo4\obj\Debug\LeoLeoLeo4.pdb
